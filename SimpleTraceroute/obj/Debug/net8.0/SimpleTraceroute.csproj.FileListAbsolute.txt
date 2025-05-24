@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\bin\Debug\net8.0\SimpleTraceroute.exe
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\bin\Debug\net8.0\SimpleTraceroute.deps.json
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\bin\Debug\net8.0\SimpleTraceroute.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\bin\Debug\net8.0\SimpleTraceroute.dll
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\bin\Debug\net8.0\SimpleTraceroute.pdb
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.dll
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\refint\SimpleTraceroute.dll
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.pdb
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\SimpleTraceroute.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SimpleTraceroute\SimpleTraceroute\obj\Debug\net8.0\ref\SimpleTraceroute.dll

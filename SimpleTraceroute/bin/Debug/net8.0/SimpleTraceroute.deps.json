@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleTraceroute/1.0.0": {
+        "runtime": {
+          "SimpleTraceroute.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleTraceroute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
