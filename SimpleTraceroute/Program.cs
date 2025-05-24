@@ -283,9 +283,6 @@ public class SimpleTraceroute
         }
     }
 
-    /// <param name="data">Массив байтов, содержащий ICMP-пакет (заголовок + данные).</param>
-    /// <param name="offset">Начальное смещение ICMP-сообщения в массиве.</param>
-    /// <param name="length">Длина ICMP-сообщения (заголовок + данные).</param>
   
     private static ushort CalculateChecksum(byte[] data, int offset, int length)
     {
