@@ -1,0 +1,7 @@
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\.Проекты БГУИР\КСиС\Laba4\Proxy\Proxy\obj\Debug\Proxy.pdb
